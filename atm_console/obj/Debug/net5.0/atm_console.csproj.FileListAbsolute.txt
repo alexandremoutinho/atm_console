@@ -1,0 +1,16 @@
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\bin\Debug\net5.0\atm_console.exe
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\bin\Debug\net5.0\atm_console.deps.json
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\bin\Debug\net5.0\atm_console.runtimeconfig.json
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\bin\Debug\net5.0\atm_console.runtimeconfig.dev.json
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\bin\Debug\net5.0\atm_console.dll
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\bin\Debug\net5.0\ref\atm_console.dll
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\bin\Debug\net5.0\atm_console.pdb
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\atm_console.csprojAssemblyReference.cache
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\atm_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\atm_console.AssemblyInfoInputs.cache
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\atm_console.AssemblyInfo.cs
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\atm_console.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\atm_console.dll
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\ref\atm_console.dll
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\atm_console.pdb
+D:\OneDrive\Dev\Modelos Sistemas\atm_console\atm_console\obj\Debug\net5.0\atm_console.genruntimeconfig.cache
